@@ -30,12 +30,6 @@ namespace debugmode56
 
             var req2 = new HttpRequestMessage();
 
-            //for (int y = 0; y < 3; y++)
-            //{
-                //if (y % 10 == 0)
-                //{
-                //    log.LogInformation("Status: " + y/10 + "%");
-                //}
 
                 for (int i = 0; i < 20; i++)
                 {
